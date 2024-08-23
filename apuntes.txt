@@ -1,0 +1,7 @@
+git remote add origin https...  --------> agregar de forma remota el repositorio local a la nube(repositorio remoto)
+
+
+git branch -M main -------> cambia el nombre de master a main
+
+
+git push -u origin main --------> pushea o sube la rama a la nube
